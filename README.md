@@ -1,4 +1,4 @@
-getusers.ps1 - скрипт для получения списка пользователей вместе с displayname
+getusers.ps1 - скрипт для получения списка пользователей вместе с displayname<br>
 update_displaynames.csv - шаблон файла для обновления пользвоателям displayname
 updateuserdisplayname.ps1 - скрипт для обновления displayname по списку пользователей
 
